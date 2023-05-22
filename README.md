@@ -13,3 +13,8 @@ The instructions for this Challenge are divided into the following subsections:
   - Predict a Logistic Regression Model with Resampled Training Data
 
   - Write a Credit Risk Analysis Report
+
+## To run the code, please follow these steps:
+
+- Clone the repository.
+- Open the Jupyter Notebook "credit_risk_classification.ipynb" into the Stater_Code folder and run the file.
